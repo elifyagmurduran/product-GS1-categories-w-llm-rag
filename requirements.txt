@@ -1,0 +1,9 @@
+pandas
+numpy
+requests>=2.31.0
+python-dotenv>=0.21.0
+azure-identity>=1.14.0
+openai>=2.3.0
+pyodbc>=4.0.34
+sqlalchemy>=2.0.44
+faiss-cpu>=1.7.4
